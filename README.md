@@ -62,5 +62,5 @@ Hello!
 I’m Ignacy, a passionate learner and practitioner of Linux Administration, Linux Support, DevOps, and Cloud Operations. I am currently seeking a trainee or junior position to further develop my skills and contribute to innovative projects.
 
 If you are a recruiter looking for a dedicated and enthusiastic candidate, please feel free to reach out!
-  * **[LinkedIn Profile](https://www.linkedin.com/in/ignacy-sawa-488771161)**
+  * **[LinkedIn Profile](https://www.linkedin.com/in/ignacy-sawa)**
   * **[E-mail: sawaignacy+github@gmail.com](sawaignacy+github@gmail.com)**
